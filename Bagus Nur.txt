@@ -1,13 +1,13 @@
 G.231.19.0098 - BAGUS NUR ROHMAT - JANGAN LUPA NGOYOT
 
-<<<<<<< HEAD
+
 
 Fakultas Teknologi Informasi dan Komunikasi
 
 Kota Semarang , Jawa Tengah , Indonesia
 
-=======
+
 Universitas Semarang
 
 Jl. Soekarno-Hatta, Tlogosari kulon
->>>>>>> b6674701be0c56b1843339d3008ce40fc8eed7be
+
